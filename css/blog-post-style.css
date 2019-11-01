@@ -115,10 +115,24 @@
         margin: 2px 0 0 0;
     }
 
+    .author a {
+        text-decoration: none;
+        color: #B3B5CB;
+    }
+
     .picture-of-ocean {
         height: 150px;
         display: block;
         margin: 0 auto;
+    }
+
+    .picture-caption {
+        text-align: center;
+    }
+
+    .picture-caption a {
+        text-decoration: none;
+        color: black;
     }
     
     /* Footer */
@@ -244,10 +258,24 @@
         margin: 2px 0 0 0;
     }
 
+    .author a {
+        text-decoration: none;
+        color: #B3B5CB;
+    }
+
     .picture-of-ocean {
         height: 250px;
         display: block;
         margin: 0 auto;
+    }
+
+    .picture-caption {
+        text-align: center;
+    }
+
+    .picture-caption a {
+        text-decoration: none;
+        color: black;
     }
 
     /* Footer */
@@ -372,10 +400,24 @@
         margin: 2px 0 0 0;
     }
 
+    .author a {
+        text-decoration: none;
+        color: #B3B5CB;
+    }
+
     .picture-of-ocean {
         height: 400px;
         display: block;
         margin: 0 auto;
+    }
+
+    .picture-caption {
+        text-align: center;
+    }
+
+    .picture-caption a {
+        text-decoration: none;
+        color: black;
     }
     
     /* Footer */
