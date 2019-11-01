@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather:900i&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 @media(max-width: 320px),
 (min-width: 321px),
@@ -24,7 +26,16 @@
         justify-content: center;
         color: #43467F;
         font-family: 'Merriweather', serif;
-        font-size: 20px;
+        font-size: 17px;
+    }
+
+    header h1 {
+        margin: 20px 0 0 0;
+    }
+
+    .logo {
+        height: 75px;
+        margin: 0;
     }
 
     .nav {
@@ -64,19 +75,50 @@
         margin: 30px 0 0 0;
     }
 
+    .quote1 {
+        text-align: center;
+        font-family: 'Dancing Script', cursive;
+        font-size: 20px;
+        margin: 20px auto 5px auto;
+    }
+
+    .quote2 {
+        text-align: center;
+        font-family: 'Dancing Script', cursive;
+        font-size: 20px;
+        margin: 5px auto 20px auto;
+    }
+
     .article {
         margin: 0.75em 0.75em 0 0.75em;
         padding: 2px 16px;
+        font-family: 'Open Sans', sans-serif;
     }
 
     .article-title {
         color: #43467F;
         margin: 0 0 20px 0;
+        font-family: 'Merriweather', serif;
+    }
+
+    .profile-picture {
+        height: 50px;
     }
 
     .date-published {
         color: #B3B5CB;
-        margin: -15px 0 0 0;
+        margin: 2px 0 0 0;
+    }
+
+    .author {
+        color: #B3B5CB;
+        margin: 2px 0 0 0;
+    }
+
+    .picture-of-ocean {
+        height: 150px;
+        display: block;
+        margin: 0 auto;
     }
     
     /* Footer */
@@ -86,7 +128,8 @@
         grid-area: footer;
         align-items: flex-end;
         margin: 0 0 0 1.5em;
-        color: #43467F;
+        color: #43467F;font-family: 'Merriweather', serif;
+
     }
 
 }
@@ -116,6 +159,15 @@
         font-size: 20px;
     }
 
+    header h1 {
+        margin: 20px 0 0 0;
+    }
+
+    .logo {
+        height: 100px;
+        margin: -10px 0 0 0;
+    }
+
     .nav {
         display: flex;
         grid-area: nav;
@@ -153,6 +205,20 @@
         margin: 30px 0 0 0;
     }
 
+    .quote1 {
+        text-align: center;
+        font-family: 'Dancing Script', cursive;
+        font-size: 20px;
+        margin: 20px auto 5px auto;
+    }
+
+    .quote2 {
+        text-align: center;
+        font-family: 'Dancing Script', cursive;
+        font-size: 20px;
+        margin: 5px auto 20px auto;
+    }
+
     .article {
         margin: 0.75em 0.75em 0 0.75em;
         padding: 2px 16px;
@@ -161,11 +227,27 @@
     .article-title {
         color: #43467F;
         margin: 0 0 20px 0;
+        font-family: 'Merriweather', serif;
+    }
+
+    .profile-picture {
+        height: 50px;
     }
 
     .date-published {
         color: #B3B5CB;
-        margin: -15px 0 0 0;
+        margin: 2px 0 0 0;
+    }
+
+    .author {
+        color: #B3B5CB;
+        margin: 2px 0 0 0;
+    }
+
+    .picture-of-ocean {
+        height: 250px;
+        display: block;
+        margin: 0 auto;
     }
 
     /* Footer */
@@ -176,6 +258,7 @@
         align-items: flex-end;
         margin: 0 0 0 1.5em;
         color: #43467F;
+        font-family: 'Merriweather', serif;
     }
 }
 
@@ -204,6 +287,15 @@
         font-size: 20px;
     }
 
+    header h1 {
+        margin: 20px 0 0 0;
+    }
+
+    .logo {
+        height: 100px;
+        margin: -10px 0 0 0;
+    }
+
     .nav {
         display: flex;
         grid-area: nav;
@@ -241,6 +333,20 @@
         margin: 30px 0 0 0;
     }
 
+    .quote1 {
+        text-align: center;
+        font-family: 'Dancing Script', cursive;
+        font-size: 20px;
+        margin: 20px auto 5px auto;
+    }
+
+    .quote2 {
+        text-align: center;
+        font-family: 'Dancing Script', cursive;
+        font-size: 20px;
+        margin: 5px auto 20px auto;
+    }
+
     .article {
         margin: 0.75em 0.75em 0 0.75em;
         padding: 2px 16px;
@@ -249,11 +355,27 @@
     .article-title {
         color: #43467F;
         margin: 0 0 20px 0;
+        font-family: 'Merriweather', serif;
+    }
+
+    .profile-picture {
+        height: 50px;
     }
 
     .date-published {
         color: #B3B5CB;
-        margin: -15px 0 0 0;
+        margin: 2px 0 0 0;
+    }
+
+    .author {
+        color: #B3B5CB;
+        margin: 2px 0 0 0;
+    }
+
+    .picture-of-ocean {
+        height: 400px;
+        display: block;
+        margin: 0 auto;
     }
     
     /* Footer */
@@ -264,5 +386,6 @@
         align-items: flex-end;
         margin: 0 0 0 1.5em;
         color: #43467F;
+        font-family: 'Merriweather', serif;
     }
 }
