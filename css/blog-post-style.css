@@ -120,6 +120,34 @@
         color: #B3B5CB;
     }
 
+    .fa {
+        padding: 9px;
+        font-size: 30px;
+        width: 30px;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 50%;
+      }
+
+      .fa:hover {
+        opacity: 0.75;
+      }
+
+      .fa-facebook {
+        background: #3B5998;
+        color: white;
+      }
+      
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+      }
+
+      .fa-linkedin {
+        background: #007bb5;
+        color: white;
+      }
+
     .picture-of-ocean {
         height: 150px;
         display: block;
@@ -263,6 +291,34 @@
         color: #B3B5CB;
     }
 
+    .fa {
+        padding: 9px;
+        font-size: 30px;
+        width: 30px;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 50%;
+      }
+
+      .fa:hover {
+        opacity: 0.75;
+      }
+
+      .fa-facebook {
+        background: #3B5998;
+        color: white;
+      }
+      
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+      }
+
+      .fa-linkedin {
+        background: #007bb5;
+        color: white;
+      }
+
     .picture-of-ocean {
         height: 250px;
         display: block;
@@ -404,6 +460,34 @@
         text-decoration: none;
         color: #B3B5CB;
     }
+
+    .fa {
+        padding: 9px;
+        font-size: 30px;
+        width: 30px;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 50%;
+      }
+
+      .fa:hover {
+        opacity: 0.75;
+      }
+
+      .fa-facebook {
+        background: #3B5998;
+        color: white;
+      }
+      
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+      }
+
+      .fa-linkedin {
+        background: #007bb5;
+        color: white;
+      }
 
     .picture-of-ocean {
         height: 400px;
